@@ -1,0 +1,12 @@
+pertama tama lu harus ubah bot token di .env file
+
+kedua lu run di bawah ini bang
+
+npm install 
+
+
+sesudah itu lu nyalain pake
+
+node index.js 
+
+udah deh bang thanks you

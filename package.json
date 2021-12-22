@@ -1,0 +1,22 @@
+{
+  "name": "samp-djs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "worker": "node index.js",
+    "start": "node index.js",
+    "node .": "node run index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DevXyZ0009/sampBot"
+  },
+  "author": "DevXyZ",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^13.3.1",
+    "dotenv": "^10.0.0",
+    "samp-query": "^0.1.5"
+  }
+}
